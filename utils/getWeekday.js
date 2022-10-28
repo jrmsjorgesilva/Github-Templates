@@ -14,3 +14,5 @@ const getWeekday = (dayNumber) => {
 
   return weekday[dayNumber + 1];
 };
+
+export default getWeekday;
