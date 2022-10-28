@@ -1,0 +1,21 @@
+{
+  "data": {
+    "info": null,
+    "more-info": [
+      {
+        "info-1": "jk546bkh5vhj6v4j56",
+        "info-2": "jk546bkh5vhj6v4j56",
+        "info-3": "jk546bkh5vhj6v4j56",
+        "info-4": "jk546bkh5vhj6v4j56"
+      },
+      {
+        "another-info-1": "jk546bkh5vhj6v4j56",
+        "another-info-2": "jk546bkh5vhj6v4j56",
+        "another-info-3": "jk546bkh5vhj6v4j56",
+        "another-info-4": "jk546bkh5vhj6v4j56"
+      }
+    ],
+    "even-more-info": null,
+    "last-info": ["last-info-1", "last-info-2", "last-info-3"]
+  }
+}
