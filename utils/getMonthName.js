@@ -28,16 +28,6 @@ const monthsAbbreviated = [
   "Dez",
 ];
 
-const weekday = [
-  "Domingo",
-  "Segunda-Feira",
-  "Terça-Feira",
-  "Quarta-Feira",
-  "Quinta-Feira",
-  "Sexta-Feira",
-  "Sábado",
-];
-
 const getMonthName = (monthNumber) => {
   return monthName[monthNumber + 1];
 };
