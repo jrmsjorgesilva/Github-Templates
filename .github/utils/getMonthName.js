@@ -1,4 +1,4 @@
-const months = [
+const monthName = [
   "Janeiro",
   "Fevereiro",
   "Março",
@@ -38,8 +38,8 @@ const weekday = [
   "Sábado",
 ];
 
-const getMonthName = () => {
-  return;
+const getMonthName = (monthNumber) => {
+  return monthName[monthNumber + 1];
 };
 
 export default getMonthName;
