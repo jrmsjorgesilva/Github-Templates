@@ -13,21 +13,6 @@ const monthName = [
   "Dezembro",
 ];
 
-const monthsAbbreviated = [
-  "Jan",
-  "Fev",
-  "Mar",
-  "Abr",
-  "Mai",
-  "Jun",
-  "Jul",
-  "Ago",
-  "Set",
-  "Out",
-  "Nov",
-  "Dez",
-];
-
 const getMonthName = (monthNumber) => {
   return monthName[monthNumber + 1];
 };
